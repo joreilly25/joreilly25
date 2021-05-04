@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/joreilly25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="joreilly25" height="30" width="40" style="color:#fff" /></a>
-<a href="https://twitter.com/xithryl" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111819.svg?token=exp=1620167732~hmac=dd37d42e9eec18093ac01b6c4b3be6b6" alt="xithryl" height="30" width="40"" /></a>
+<a href="https://twitter.com/xithryl" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1620167732~hmac=16dc7888d6a99cff103a502a088f448c" alt="xithryl" height="30" width="40"" /></a>
 <a href="https://linkedin.com/in/joreilly25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="joreilly25" height="30" width="40" /></a>
 <a href="https://instagram.com/xithryl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="xithryl" height="30" width="40" /></a>
 </p>
