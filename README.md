@@ -1,3 +1,6 @@
+<img src='https://github-readme-stats.vercel.app/api?username=joreilly25&count_private=true&show_icons=true&theme=dark&hide_border="true"' />
+
+---
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning to code!
@@ -13,5 +16,3 @@
 Here are some ideas to get you started:
 - ⚡ Fun fact:
 -->
-
-
