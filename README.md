@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xithryl" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/733/733579.png?token=exp=1621050440~hmac=bc2faeb29f3fe5b71e283df3279f63a9" alt="xithryl" height="30" width="40"" /></a>
-<a href="https://www.linkedin.com/in/justinoreilly25/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620167863~hmac=abdff9d85d8717af7fc057a9ad041cb6" alt="joreilly25" height="30" width="40" /></a>
-<a href="https://instagram.com/xithryl" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621050461~hmac=47be914a6997a5640e00d908b4ddd495" alt="xithryl" height="30" width="40" /></a>
+<a href="https://twitter.com/xithryl" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/733/733579.png?token=exp=1621050440~hmac=bc2faeb29f3fe5b71e283df3279f63a9" alt="xithryl" height="40" width="40"" /></a>
+<a href="https://www.linkedin.com/in/justinoreilly25/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620167863~hmac=abdff9d85d8717af7fc057a9ad041cb6" alt="joreilly25" height="40" width="40" /></a>
+<a href="https://instagram.com/xithryl" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621050461~hmac=47be914a6997a5640e00d908b4ddd495" alt="xithryl" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
