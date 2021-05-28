@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xithryl" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1620167732~hmac=16dc7888d6a99cff103a502a088f448c" alt="xithryl" height="30" width="40"" /></a>
-<a href="https://www.linkedin.com/in/justinoreilly25/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="joreilly25" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/justinoreilly25/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="joreilly25" height="30" width="50" /></a>
 <a href="https://instagram.com/xithryl" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620167877~hmac=59e3074bfb67521cb72bdbf453477244" alt="xithryl" height="30" width="40" /></a>
 </p>
 
